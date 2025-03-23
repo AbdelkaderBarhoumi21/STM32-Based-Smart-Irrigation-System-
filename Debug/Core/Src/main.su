@@ -1,0 +1,14 @@
+../Core/Src/main.c:94:10:Read_Rain_Sensor	24	static
+../Core/Src/main.c:112:10:Read_Soil_Moisture_Sensor	24	static
+../Core/Src/main.c:130:15:Read_Rain_Digital	8	static
+../Core/Src/main.c:134:6:microDelay	16	static
+../Core/Src/main.c:140:9:DHT22_Start	32	static
+../Core/Src/main.c:171:9:DHT22_Read	16	static
+../Core/Src/main.c:203:5:main	8	static
+../Core/Src/main.c:345:6:SystemClock_Config	88	static
+../Core/Src/main.c:392:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:444:13:MX_ADC2_Init	24	static
+../Core/Src/main.c:496:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:530:13:MX_TIM1_Init	32	static
+../Core/Src/main.c:576:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:615:6:Error_Handler	4	static,ignoring_inline_asm
