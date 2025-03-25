@@ -1,0 +1,1 @@
+This project is an automated irrigation system using an STM32 microcontroller that integrates a DHT22 (temperature and humidity sensor), a soil moisture sensor, a rain sensor, an LCD display for monitoring, and a relay to control water flow based on environmental conditions.
